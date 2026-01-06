@@ -6,7 +6,7 @@
 **Цели и задачи проекта:**
 Выявить причины снижения выручки внутриигрового магазина мобильной игры Mines & Moles с июля 2024 года и сформулировать обоснованные рекомендации для восстановления роста монетизации.
 График выручки:
-<img width="4320" height="2562" alt="image" src="https://github.com/user-attachments/assets/bfc6f17d-a3c7-4109-b0bf-7319921ab365" />
+<img width="2320" height="1562" alt="image" src="https://github.com/user-attachments/assets/bfc6f17d-a3c7-4109-b0bf-7319921ab365" />
 
 ---
 
